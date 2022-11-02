@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tomoi96
 - 👀 I’m interested in web development, and hoping to be good enough to land a job in this industry.
-- 🌱 I’m currently learning advanced CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML/CSS, git, soon getting on Javascript.
+- 💞️ I’m looking to collaborate on anything that could be usefull for a beginner like me.
+- 📫 How to reach me: ✉ tomislav.lazaret@gmail.com
 
 <!---
 Tomoi96/Tomoi96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
